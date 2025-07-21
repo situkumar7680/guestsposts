@@ -19,6 +19,63 @@ This guide provides a comprehensive list of **paid guest posting sites** for 202
 
 What Is Paid Guest Posting?
 ---------------------------
+Guest Post Sites Information
+============================
+
+.. list-table:: Guest Post Platforms and Metrics
+   :widths: 25 10 10 25
+   :header-rows: 1
+
+   * - Website
+     - DA
+     - PA
+     - Contact
+   * - Atespost.com 🌐
+     - 53 🏅
+     - 44 📊
+     - Contact 📨 <https://docs.google.com/forms/d/15F0p0v_LcdapS5C39zCfw30PfJUKzDacZz9_1T9JGwA/edit?chromeless=1>_
+   * - sites.google.com 🌐
+     - 96 🏅
+     - 85 📊
+     - Contact 📨 <https://docs.google.com/forms/d/15F0p0v_LcdapS5C39zCfw30PfJUKzDacZz9_1T9JGwA/edit?chromeless=1>_
+   * - medium.com 🌐
+     - 95 🏅
+     - 90 📊
+     - Contact 📨 <https://docs.google.com/forms/d/15F0p0v_LcdapS5C39zCfw30PfJUKzDacZz9_1T9JGwA/edit?chromeless=1>_
+   * - issuu.com 🌐
+     - 93 🏅
+     - 86 📊
+     - Contact 📨 <https://docs.google.com/forms/d/15F0p0v_LcdapS5C39zCfw30PfJUKzDacZz9_1T9JGwA/edit?chromeless=1>_
+   * - github.com 🌐
+     - 98 🏅
+     - 92 📊
+     - Contact 📨 <https://docs.google.com/forms/d/15F0p0v_LcdapS5C39zCfw30PfJUKzDacZz9_1T9JGwA/edit?chromeless=1>_
+   * - adobe.com 🌐
+     - 97 🏅
+     - 91 📊
+     - Contact 📨 <https://docs.google.com/forms/d/15F0p0v_LcdapS5C39zCfw30PfJUKzDacZz9_1T9JGwA/edit?chromeless=1>_
+   * - wordpress.com 🌐
+     - 94 🏅
+     - 88 📊
+     - Contact 📨 <https://docs.google.com/forms/d/15F0p0v_LcdapS5C39zCfw30PfJUKzDacZz9_1T9JGwA/edit?chromeless=1>_
+   * - wix.com 🌐
+     - 89 🏅
+     - 80 📊
+     - Contact 📨 <https://docs.google.com/forms/d/15F0p0v_LcdapS5C39zCfw30PfJUKzDacZz9_1T9JGwA/edit?chromeless=1>_
+   * - weebly.com 🌐
+     - 85 🏅
+     - 79 📊
+     - Contact 📨 <https://docs.google.com/forms/d/15F0p0v_LcdapS5C39zCfw30PfJUKzDacZz9_1T9JGwA/edit?chromeless=1>_
+   * - blogger.com 🌐
+     - 91 🏅
+     - 84 📊
+     - Contact 📨 <https://docs.google.com/forms/d/15F0p0v_LcdapS5C39zCfw30PfJUKzDacZz9_1T9JGwA/edit?chromeless=1>_
+   * - tumblr.com 🌐
+     - 90 🏅
+     - 83 📊
+     - Contact 📨 <https://docs.google.com/forms/d/15F0p0v_LcdapS5C39zCfw30PfJUKzDacZz9_1T9JGwA/edit?chromeless=1>_
+
+
 
 **Paid guest posting** is a form of content collaboration where a website charges a fee to publish a guest article submitted by an external contributor. In return, the contributor usually gets one or more backlinks to their own site.
 
